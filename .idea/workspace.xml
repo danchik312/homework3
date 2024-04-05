@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff74154-3d8b-4d25-bee8-3f0605ce27af" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/clone.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/26_3.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/dop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/git.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/homeWorks/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/less5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/lesson2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/lesson3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/lesson4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/lesson6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOOP/tt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/clone/.venv&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/clone",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\clone" />
       <recent name="C:\Users\Admin\PycharmProjects\clone\.venv" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -76,7 +87,7 @@
       <workItem from="1712323019890" duration="1415000" />
       <workItem from="1712324461311" duration="1154000" />
       <workItem from="1712326130600" duration="1359000" />
-      <workItem from="1712339104440" duration="352000" />
+      <workItem from="1712339104440" duration="1049000" />
     </task>
     <servers />
   </component>
